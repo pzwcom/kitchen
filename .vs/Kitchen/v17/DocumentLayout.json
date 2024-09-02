@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mydream\\unity_project\\Kitchen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|e:\\mydream\\unity_project\\kitchen\\assets\\script\\containercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\containercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\containercountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\containercountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|e:\\mydream\\unity_project\\kitchen\\assets\\script\\cuttingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cuttingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\kitchenobjectso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\kitchenobjectso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\selectedcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|E:\\mydream\\unity_project\\Kitchen\\assets\\script\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DABD739-3204-B4C4-08FC-A98D18801AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContainerCounter.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\ContainerCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ContainerCounter.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\ContainerCounter.cs",
+              "RelativeToolTip": "Assets\\Script\\ContainerCounter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:43:06.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KitchenObject.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\KitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\KitchenObject.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\KitchenObject.cs",
+              "RelativeToolTip": "Assets\\Script\\KitchenObject.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:39:44.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContainerCounterVisual.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\ContainerCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ContainerCounterVisual.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\ContainerCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Script\\ContainerCounterVisual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:53:58.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuttingCounter.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\CuttingCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CuttingCounter.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\CuttingCounter.cs",
+              "RelativeToolTip": "Assets\\Script\\CuttingCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:03:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameInput.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\GameInput.cs",
+              "RelativeToolTip": "Assets\\Script\\GameInput.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T08:36:57.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:54:32.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClearCounter.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\ClearCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ClearCounter.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\ClearCounter.cs",
+              "RelativeToolTip": "Assets\\Script\\ClearCounter.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:21:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CuttingRecipeSO.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\CuttingRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CuttingRecipeSO.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\CuttingRecipeSO.cs",
+              "RelativeToolTip": "Assets\\Script\\CuttingRecipeSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:20:44.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KitchenObjectSO.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\KitchenObjectSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\KitchenObjectSO.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\KitchenObjectSO.cs",
+              "RelativeToolTip": "Assets\\Script\\KitchenObjectSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:29:55.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseCounter.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\BaseCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BaseCounter.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\BaseCounter.cs",
+              "RelativeToolTip": "Assets\\Script\\BaseCounter.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:58:02.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SelectedCounterVisual.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\SelectedCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SelectedCounterVisual.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\SelectedCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Script\\SelectedCounterVisual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:56:58.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerAnimator.cs",
+              "DocumentMoniker": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\PlayerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerAnimator.cs",
+              "ToolTip": "E:\\mydream\\unity_project\\Kitchen\\Assets\\Script\\PlayerAnimator.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerAnimator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:31:23.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
